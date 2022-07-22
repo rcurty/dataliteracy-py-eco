@@ -348,13 +348,14 @@ better idea of the number of measurements and of their distribution:
 > {: .solution}
 {: .challenge}
 
+
 > ## Data Moment
 >
-> ***Communicate your data effectivelly***
+> ***Communicate your data more effectivelly***
 > 
-> When communicating your data visually, you should consider the best alternatives available for the type of data at hand. Data visualizations should make it easier for the audience to quickly understand the information presented and evaluate the outcomes from that data. They should be practical, appealing, and, most and foremost, accurate. Therefore, it is vital to consider the advantages and limitations of different graphs. For example, on the one hand, box plots help represent various statistics from a large amount of data in a single box plot, display the range and distribution of data along a number line, and provide some indication of the data's symmetry and skewness, and show outliers. On the other hand, they have some pitfalls, as they may hide the multimodality and other features of distributions, they can be only used for numerical data, and can't represent means and modes.
+>When communicating your data visually, you should consider the best alternatives available for the type of data at hand. Data visualizations should make it easier for the audience to quickly understand the information presented and evaluate the outcomes from that data. They should be practical, appealing, and, most and foremost, accurate. Therefore, it is vital to consider the advantages and limitations of different graphs. For example, on the one hand, box plots help represent various statistics from a large amount of data in a single box plot, display the range and distribution of data along a number line, and provide some indication of the data's symmetry and skewness, and show outliers. On the other hand, they have some pitfalls, as they may hide the multimodality and other features of distributions, they can be only used for numerical data, and can't represent means and modes.
 
-> Make sure to always weigh the cons and pros of each graphing option before making a decision.
+>Make sure to always weigh the cons and pros of each graphing option before making a decision.
 {: .datamoment}
 
 
