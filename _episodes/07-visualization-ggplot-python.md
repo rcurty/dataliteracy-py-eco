@@ -358,8 +358,6 @@ better idea of the number of measurements and of their distribution:
 {: .datamoment}
 
 
-
-
 ## Plotting time series data
 
 Let's calculate number of counts per year for each species. To do that we need
