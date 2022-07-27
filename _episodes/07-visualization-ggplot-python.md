@@ -357,6 +357,7 @@ better idea of the number of measurements and of their distribution:
 >Make sure to always weigh the cons and pros of each graphing option before making a decision.
 {: .datamoment}
 
+----REMOVE
 
 > ## Data Moment
 >
@@ -364,17 +365,26 @@ better idea of the number of measurements and of their distribution:
 > 
 > Although we are using data that is under a CC-BY license, there still may be some ethical issues to consider before its use:
 > + Did the participants agree to have their data published?
-> ++ Even so, is it possible for people to be identified through the data in the way you are using it?
+>    + Even so, is it possible for people to be identified through the data in the way you are using it?
 > + What uses did the participants agree to for their data?
-> ++ Even though the data is itself released under a CC-BY license, is the use of SAFI data for Carpentry permissible under the original agreement?
-> ++ Is the use and reuse of this data in any setting beyond the scope or conception of the participants? 
-> ++ Is it ethical to use this data if so?
+>    + Even though the data is itself released under a CC-BY license, is the use of SAFI data for Carpentry permissible under the original agreement?
+>    + Is the use and reuse of this data in any setting beyond the scope or conception of the participants? 
+>    + Is it ethical to use this data if so?
 {: .datamoment}
 
  
- 
- 
+ > ## Data Moment
+>
+> ***Licensing***
+> 
+> In any data project, it is critical to understand the licenses that govern the use and reuse of the data. See here for a primer on what software and data licenses are and how they can impact your use of data.
+> This module uses the following data: 
+> Title: SAFI Survey Results Project
+> License: CC-BY
+> About: The SAFI Project is a research project looking at farming and irrigation methods used by farmers in Tanzania and Mozambique. This dataset is composed of survey data relating to households and agriculture in Tanzania and Mozambique. The survey form was created using the ODK (Open Data Kit) software via an Excel spreadsheet. This is used to create a form which can be downloaded and displayed (and completed) on an Android smartphone. The results are then sent back to a central server. The server can be used to produce the collected data in both JSON and CSV formats.
+{: .datamoment}
 
+-----------REMOVE
 
 ## Plotting time series data
 
