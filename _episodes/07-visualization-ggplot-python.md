@@ -367,10 +367,9 @@ better idea of the number of measurements and of their distribution:
 
 
 
-
 > ## Data Moment
 >
-> **Accuracy and Precision**
+> ***Accuracy and Precision***
 > 
 > You may have noticed that in our data frame, weights are integer numbers of grams, but RStudio displays computed quantities such as `df$weight_lb` using many digits after the decimal point. Is that precision warranted? In a word, no.
 > Accuracy refers to how close a value in the computer is to the true value. Precision refers to how precisely a value is displayed (roughly, how many digits are printed). The precision should ideally reflect the accuracy, but in any case should not exceed it.
