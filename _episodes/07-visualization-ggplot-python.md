@@ -382,13 +382,12 @@ better idea of the number of measurements and of their distribution:
 >
 > ***Licensing***
 > 
-> In any data project, it is critical to understand the licenses that govern the use and reuse of the data. See here for a primer on what software and data licenses are and how they can impact your use of data.
+> In any data project, it is critical to understand the licenses that govern the use and reuse of the data. [See here our primer](https://www.library.ucsb.edu/sites/default/files/dls-n10-2021-licensing-navy_0.pdf) on what software and data licenses are and how they can impact your use of data.
 > 
 > This module uses the following data: 
 > 
 > Title: SAFI Survey Results Project
 > License: CC-BY
-> 
 > About: The SAFI Project is a research project looking at farming and irrigation methods used by farmers in Tanzania and Mozambique. This dataset is composed of survey data relating to households and agriculture in Tanzania and Mozambique. The survey form was created using the ODK (Open Data Kit) software via an Excel spreadsheet. This is used to create a form which can be downloaded and displayed (and completed) on an Android smartphone. The results are then sent back to a central server. The server can be used to produce the collected data in both JSON and CSV formats.
 {: .datamoment}
 
