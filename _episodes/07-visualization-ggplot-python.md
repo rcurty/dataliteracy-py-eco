@@ -358,6 +358,15 @@ better idea of the number of measurements and of their distribution:
 {: .datamoment}
 
 
+> ## Data Moment
+>
+> ***Data Documentation***
+> 
+> Data documentation is vital; without it, data has no meaning.  Documentation should include the data's overall intent and purpose and how it was gathered or measured.  For tabular data such as we are working with here, documentation should include the meaning of the rows and the definitions of the columns, including units of measure, missing values, and any special codes.  Some data formats support placing the documentation inside the file; unfortunately, CSV does not.  Therefore, documentation for this data format should be placed in a separate (but co-located) README file [see a customizable template here](https://drive.google.com/file/d/1vF3dLS8qDub--BEXr709OLaSg1_YxcO5/view) or use a metadata standard such as [DDI](https://ddialliance.org/).
+{: .datamoment}
+
+
+
 
 > ## Data Moment
 >
