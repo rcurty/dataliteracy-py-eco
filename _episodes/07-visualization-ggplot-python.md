@@ -358,6 +358,24 @@ better idea of the number of measurements and of their distribution:
 {: .datamoment}
 
 
+> ## Data Moment
+>
+> ***Ethics***
+> 
+> Although we are using data that is under a CC-BY license, there still may be some ethical issues to consider before its use:
+> + Did the participants agree to have their data published?
+> ++ Even so, is it possible for people to be identified through the data in the way you are using it?
+> + What uses did the participants agree to for their data?
+> ++ Even though the data is itself released under a CC-BY license, is the use of SAFI data for Carpentry permissible under the original agreement?
+> ++ Is the use and reuse of this data in any setting beyond the scope or conception of the participants? 
+> ++ Is it ethical to use this data if so?
+{: .datamoment}
+
+ 
+ 
+ 
+
+
 ## Plotting time series data
 
 Let's calculate number of counts per year for each species. To do that we need
