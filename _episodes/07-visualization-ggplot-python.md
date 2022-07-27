@@ -357,8 +357,6 @@ better idea of the number of measurements and of their distribution:
 >Make sure to always weigh the cons and pros of each graphing option before making a decision.
 {: .datamoment}
 
-----REMOVE
-
 
 
 > ## Data Moment
@@ -369,7 +367,6 @@ better idea of the number of measurements and of their distribution:
 > Accuracy refers to how close a value in the computer is to the true value. Precision refers to how precisely a value is displayed (roughly, how many digits are printed). The precision should ideally reflect the accuracy, but in any case should not exceed it.
 > RStudio does not know the accuracy of your data, and hence displays a default number of a digits, i.e., a default precision, whether that precision is warranted or not. Thus it is normal to see many digits displayed while working with data. When presenting data, use the round function to adjust the digits displayed to reflect the data's accuracy.
 {: .datamoment}
-
 
 
 
